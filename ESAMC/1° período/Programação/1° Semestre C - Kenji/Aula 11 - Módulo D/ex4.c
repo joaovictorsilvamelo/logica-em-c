@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 char gabarito[11] = "ABCEABADCB";
 char respostas[11];
 int i, acertos;

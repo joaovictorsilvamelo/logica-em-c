@@ -5,7 +5,6 @@
 #define MAX_LINHAS 3
 #define MAX_COLUNAS 3
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 int mat1[MAX_LINHAS][MAX_COLUNAS], mat2[MAX_LINHAS][MAX_COLUNAS], resultado[MAX_LINHAS][MAX_COLUNAS];
 int i, j;
 

@@ -5,7 +5,6 @@
 #define MAX_LINHAS 50
 #define MAX_COLUNAS 50
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
 char banco_nomes[MAX_LINHAS][MAX_COLUNAS] = {"Ana", "Pedro", "Angelo", "Eduardo", "Maria"};
 char letra;
 int i, j;
