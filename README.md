@@ -3,4 +3,4 @@ Exercícios e práticas de lógica de programação desenvolvidos em linguagem C
 
 ## Créditos
 
-A maioria destes exercícios foi elaborada pelo professor Kenji durante as aulas. Alguns arquivos incluem soluções, correções ou aprimoramentos feitos durante os estudos.
+A grande maioria destes exercícios foi elaborada pelo professor Kenji durante o semestre. Alguns arquivos incluem soluções, correções ou aprimoramentos feitos durante os estudos.
